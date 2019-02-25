@@ -3,7 +3,7 @@ This tutorial shows how to create a simple SPA (Single Page Application) with Sp
 
 
 [Part 1. Features](#features)  
-[Part 2. Environment Setup](#Part 2. Environment Setup)  
+[Part 2. Environment Setup](#part-2.-environment-setup)  
 [Part 3. Run the application](#run)   
 [Part 4. Overview](#overview)  
 [Part 5. Errors](#errors)  
