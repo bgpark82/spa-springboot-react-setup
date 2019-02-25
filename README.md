@@ -1,5 +1,3 @@
-# spa-springboot-react-setup
-
 # SPA : Spring Boot + React.js 
 This tutorial shows how to create a simple SPA (Single Page Application) with Spring Boot and React.js and the basic setup with webpack. 
 
