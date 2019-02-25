@@ -2,10 +2,10 @@
 This tutorial shows how to create a simple SPA (Single Page Application) with Spring Boot and React.js and the basic setup with webpack. 
 
 
-[Part 1. Features](#features)  
-[Part 2. Environment Setup](#part-2.-environment-setup)  
-[Part 3. Run the application](#run)   
-[Part 4. Overview](#overview)  
+[Part 1. Features](#part-1-features)  
+[Part 2. Environment Setup](#part-2-environment-setup)  
+[Part 3. Run the application](#part-3-run-the-application)   
+[Part 4. Overview](#part-4-overview)  
 [Part 5. Errors](#part-5-errors)  
 
 
