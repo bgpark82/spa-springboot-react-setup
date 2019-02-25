@@ -2,10 +2,10 @@
 This tutorial shows how to create a simple SPA (Single Page Application) with Spring Boot and React.js and the basic setup with webpack. 
 
 
-
+[Link-name2](##Part 2. Environment Setup)
 [Part 1. Features](#features)  
-[Part 2. Environment Setup](#features)  
-[Part 3. Run the application](#features)   
+[Part 2. Environment Setup](#environmenet)  
+[Part 3. Run the application](#run)   
 [Part 4. Overview](#overview)  
 [Part 5. Errors](#errors)  
 
@@ -157,7 +157,7 @@ If anyone who use Oracle database server port which is 8080, you must change the
 ## Part 3. Run the application
 #### 1. Run `npm run-script watch` on your terminal in the current file directory
 #### 2. Then, you could see `bundle.js` created under `src/main/resources/static/built` 
-#### Index page
+#### 3. Index page
 ![2](./image/2.png)
 
 
