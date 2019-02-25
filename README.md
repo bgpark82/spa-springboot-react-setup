@@ -13,7 +13,7 @@ This tutorial shows how to create a simple SPA (Single Page Application) with Sp
 ## Part 1. Features
 ### 01. SpringBoot		
 	
-> Spring Boot makes it easy to create stand-alone, ready made Spring Application that you can simple select dependencies with minimum effort. Go check out this web site https://start.spring.io/ to build your own Spring Boot Application and choose dependencies down below. Those are the bear-bone dependencies that we need in this tutorial. Download the maven project into your computer and install it. 
+> Spring Boot makes it easy to create stand-alone, ready made Spring Application that you can simply select dependencies with minimum effort. Go check out this web site https://start.spring.io/ to build your own Spring Boot Application and choose dependencies down below. Those are the bear-bone dependencies that we need in this tutorial. Download the maven project onto your computer and install it. 
 
 	* Web
 	* Thymeleaf
@@ -24,7 +24,7 @@ This tutorial shows how to create a simple SPA (Single Page Application) with Sp
 
 ### 02. React		
 
-> Once you donwnload the Maven project and install project,  you will probably need those three program. We will go through how to install the react dependencies and setup webpack configuration
+> Once you donwnload the Maven project and install project,  you will probably need those three programs. We will go through how to install the react dependencies and setup webpack configuration
 
 	* React.js
 	* webpack
@@ -148,7 +148,7 @@ public class JpaController {
 ```
 
 #### 7.  Port (Optional)
-If anyone who use Oracle database server port which is 8080, you must change the Tomcat server port .  The embedded Spring boot tomcat server port by default is 8080. It will cause a port conflict and won’t be able to take you to main page. Add `server.port=8989` with any port number instead of 8989 under `src/main/resources/application.properties`. (I used a 8989 as port number in this tutorial)
+If anyone who use Oracle database server port which is 8080, you must change the Tomcat server port.  The embedded Spring boot tomcat server port by default is 8080. It will cause a port conflict and won’t be able to take you to main page. Add `server.port=8989` with any port number instead of 8989 under `src/main/resources/application.properties`. (I used a 8989 as port number in this tutorial)
 
 
 
@@ -175,7 +175,7 @@ If anyone who use Oracle database server port which is 8080, you must change the
 
 <a name=“errors”></a>
 ## Part 5. Errors
-in this section, we are going to talk about the possible error messages you might come across during the process. I’ve seen these errors and spent a couple of hours to solve each issue. It could be a good trial and error approach but I don’t want you to waste your time by these issues.  You might see the other issues depending on your environment setup, version or etc.. If any errors coming up on your screen and figured them out, please leave a comment down below so we can share :)
+In this section, we are going to talk about the possible error messages you might come across during the process. I’ve seen these errors and spent a couple of hours to solve each issue. It could be a good trial and error approach but I don’t want you to waste your time with these issues.  You might see the other issues depending on your environment setup, version or etc.. If any errors are coming up on your screen and you figured them out, please leave a comment down below so we can share :)
 
 1. Add @babel/plugin-proposal-class-properties (https://git.io/vb4SL) to the 'plugins' section of your Babel config to enable transformation.
 
