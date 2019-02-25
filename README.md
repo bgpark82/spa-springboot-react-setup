@@ -6,7 +6,7 @@ This tutorial shows how to create a simple SPA (Single Page Application) with Sp
 [Part 2. Environment Setup](#part-2.-environment-setup)  
 [Part 3. Run the application](#run)   
 [Part 4. Overview](#overview)  
-[Part 5. Errors](#errors)  
+[Part 5. Errors](#part-5-errors)  
 
 
 <a name=“features”></a>
@@ -174,7 +174,7 @@ If anyone who use Oracle database server port which is 8080, you must change the
 
 
 <a name=“errors”></a>
-## Errors
+## Part 5. Errors
 in this section, we are going to talk about the possible error messages you might come across during the process. I’ve seen these errors and spent a couple of hours to solve each issue. It could be a good trial and error approach but I don’t want you to waste your time by these issues.  You might see the other issues depending on your environment setup, version or etc.. If any errors coming up on your screen and figured them out, please leave a comment down below so we can share :)
 
 1. Add @babel/plugin-proposal-class-properties (https://git.io/vb4SL) to the 'plugins' section of your Babel config to enable transformation.
