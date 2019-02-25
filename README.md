@@ -3,11 +3,11 @@ This tutorial shows how to create a simple SPA (Single Page Application) with Sp
 
 
 
-[Part 1. Features](#features)
-[Part 2. Environment Setup](#features)
-[Part 3. Run the application](#features)
-[Part 4. Overview](#overview)
-[Part 5. Errors](#errors)
+[Part 1. Features](#features)  
+[Part 2. Environment Setup](#features)  
+[Part 3. Run the application](#features)   
+[Part 4. Overview](#overview)  
+[Part 5. Errors](#errors)  
 
 
 <a name=“features”></a>
